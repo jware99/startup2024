@@ -1,12 +1,12 @@
-# Brothers HotPot
+# Brothers HotPot :congradulations:
 
-## Elevator Pitch
+## Elevator Pitch :elevator:
 
 Are you craving Chinese food? We've got the place for you, Brothers' hotPot is the newly established local authentic Chinese buffet. This website will not only allow users to browse the delicious menu items, but assist them in joining the rewards program to receive deals and save money on their dining experience. The easy to navigate web design helps users find the restaurant, review the restaurant, and satisfy their Chinese food craving. 
 
 ## Design :pencil2:
 - ![Pictures of all four designs for the different pages](image.png)
-## Key Features
+## Key Features :old_key:
 
 - Display menu with embedded photos and price
 - Interactive map with directions to HotPot
@@ -17,7 +17,7 @@ Are you craving Chinese food? We've got the place for you, Brothers' hotPot is t
 - Ability for admin to edit food items, prices & pictures
 - Rewards program that stores users' reward points
 
-## Technologies
+## Technologies :desktop_computer:
 
 I am going to use the required technologies in the following ways.
 
