@@ -1,4 +1,4 @@
-# Brothers HotPot :congradulations:
+# Brothers HotPot :congratulations:
 
 ## Elevator Pitch :elevator:
 
